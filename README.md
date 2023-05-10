@@ -1,6 +1,6 @@
 # Crítica de peliculas
 
-link al repositorio:
+link al repositorio:https://github.com/Jacobo24/Critica_peliculas.git
 
 Para conocer mejor la distribución gaussiana, vamos a dejar a un lado las notas obtenidas en el examen y vamos a concentrarnos en las críticas de películas.
 
